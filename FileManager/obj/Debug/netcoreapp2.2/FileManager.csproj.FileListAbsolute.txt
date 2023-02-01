@@ -10,3 +10,15 @@ D:\Projetos\FileManager\FileManager\obj\Debug\netcoreapp2.2\FileManager.Assembly
 D:\Projetos\FileManager\FileManager\obj\Debug\netcoreapp2.2\FileManager.dll
 D:\Projetos\FileManager\FileManager\obj\Debug\netcoreapp2.2\FileManager.pdb
 D:\Projetos\FileManager\FileManager\bin\Debug\netcoreapp2.2\file-register.cypt
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\file-register.cypt
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\FileManager.deps.json
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\FileManager.runtimeconfig.json
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\FileManager.runtimeconfig.dev.json
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\FileManager.dll
+D:\Projetos\file-manager\FileManager\bin\Debug\netcoreapp2.2\FileManager.pdb
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.csprojAssemblyReference.cache
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.csproj.CoreCompileInputs.cache
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.AssemblyInfoInputs.cache
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.AssemblyInfo.cs
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.dll
+D:\Projetos\file-manager\FileManager\obj\Debug\netcoreapp2.2\FileManager.pdb

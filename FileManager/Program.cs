@@ -187,7 +187,7 @@ namespace FileManager
             cmd.StartInfo.UseShellExecute = false;
             cmd.Start();
 
-            cmd.StandardInput.WriteLine(pathFile);
+            cmd.StandardInput.WriteLine($"\"{pathFile}\"");
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
         }

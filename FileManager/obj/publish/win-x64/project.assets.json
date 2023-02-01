@@ -1422,11 +1422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\FileManager\\FileManager\\FileManager.csproj",
+      "projectUniqueName": "D:\\Projetos\\file-manager\\FileManager\\FileManager.csproj",
       "projectName": "FileManager",
-      "projectPath": "D:\\Projetos\\FileManager\\FileManager\\FileManager.csproj",
+      "projectPath": "D:\\Projetos\\file-manager\\FileManager\\FileManager.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\FileManager\\FileManager\\obj\\publish\\win-x64\\",
+      "outputPath": "D:\\Projetos\\file-manager\\FileManager\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
